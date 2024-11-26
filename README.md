@@ -1,2 +1,3 @@
 # minigame_pyxel
-Pyxel練習
+
+[click here to play!](https://souta-pqr.github.io/minigame_pyxel/)
